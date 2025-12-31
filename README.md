@@ -79,15 +79,21 @@ Here are some ideas to get you started:
 
 ## 🤝 Let’s Connect
 
-- 🌐 Portfolio: https://rudrasubudhi.vercel.app/ 
+<!--- 🌐 Portfolio: https://rudrasubudhi.vercel.app/ 
 - 💼 LinkedIn: https://www.linkedin.com/in/b-rudra-narayan-subudhi-46b320228/
-- ✉️ Email: brnsubudhi1151@gmail.com 
+- ✉️ Email: brnsubudhi1151@gmail.com  -->
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://rudrasubudhi.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/b-rudra-narayan-subudhi-46b320228/)
+<!--[![Twitter](https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/shreyassihasane)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@shreyas.sihasane) -->
+[![Email](https://img.shields.io/badge/Email-black?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brnsubudhi1151@gmail.com )
 
 ---
 
-<!--<p align="center">
+<p align="center">
   <strong>"Skill is built by consistency, not shortcuts."</strong>
 </p>
 
-<p align="center">⚡ Always building. Always learning.</p> -->
+<p align="center">⚡ Always building. Always learning.</p> 
 
