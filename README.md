@@ -64,8 +64,8 @@ Here are some ideas to get you started:
 
 ## 🧠 What I’m Currently Working On
 
-- 🔹 Production-ready **Next.js applications**
-- 🔹 Scalable backend APIs
+- 🔹 Production-ready **Full Stack applications**
+- 🔹 Performance optimization in Frontend
 - 🔹 Portfolio-grade real-world projects
 
 ---
@@ -79,7 +79,7 @@ Here are some ideas to get you started:
 
 ## 🤝 Let’s Connect
 
-- 🌐 Portfolio: *Coming Soon*
+- 🌐 Portfolio: https://rudrasubudhi.vercel.app/ 
 - 💼 LinkedIn: https://www.linkedin.com/in/b-rudra-narayan-subudhi-46b320228/
 - ✉️ Email: brnsubudhi1151@gmail.com 
 
