@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **RudraNarayan2002/RudraNarayan2002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,96 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h1 align="center">Hi 👋, I'm Rudra Subudhi</h1>
+<h3 align="center">Software Engineer | Full Stack Developer</h3>
+
+<p align="center">
+  Building scalable, performant, and user-centric web applications using modern web technologies.
+</p>
+
+---
+
+## 🚀 About Me
+
+- 💻 Software Engineer with **2+ year of hands-on experience**
+- ⚡ Frontend-focused with strong interest in **full-stack & system design**
+- 🌱 Currently exploring **Backend architecture & Integration of Gen AI**
+- 🧠 Passionate about clean code, performance & real-world problem solving
+- 🚀 Love building products, not just demos
+
+---
+
+## 🧰 Tech Stack
+
+### 💻 Frontend
+- React.js
+- Next.js (App Router, Server Actions)
+- TypeScript
+- JavaScript (ES6+)
+- Tailwind CSS / SCSS
+- Redux
+
+### 🔧 Backend
+- Node.js
+- Express.js
+- REST APIs
+
+### 🗄️ Databases
+- MongoDB
+- PostgreSQL
+- Prisma ORM
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=RudraNarayan2002&show_icons=true&theme=radical&hide_border=true" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=RudraNarayan2002&theme=radical&hide_border=true" 
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraNarayan2002&layout=compact&theme=radical&hide_border=true" 
+    height="150"
+  />
+</p>
+
+---
+
+## 🧠 What I’m Currently Working On
+
+- 🔹 Production-ready **Next.js applications**
+- 🔹 Scalable backend APIs
+- 🔹 Portfolio-grade real-world projects
+
+---
+
+<!-- ## 🌟 Featured Projects
+
+🚧 *Pinned projects coming soon…*  
+*(Working on AI-powered tools & SaaS-style applications)* 
+
+--- -->
+
+## 🤝 Let’s Connect
+
+- 🌐 Portfolio: *Coming Soon*
+- 💼 LinkedIn: https://www.linkedin.com/in/b-rudra-narayan-subudhi-46b320228/
+- ✉️ Email: brnsubudhi1151@gmail.com 
+
+---
+
+<!--<p align="center">
+  <strong>"Skill is built by consistency, not shortcuts."</strong>
+</p>
+
+<p align="center">⚡ Always building. Always learning.</p> -->
+
