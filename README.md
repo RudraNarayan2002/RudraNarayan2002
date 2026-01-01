@@ -91,9 +91,9 @@ Here are some ideas to get you started:
 
 ---
 
-<p align="center">
+<!-- <p align="center">
   <strong>"Skill is built by consistency, not shortcuts."</strong>
 </p>
 
-<p align="center">⚡ Always building. Always learning.</p> 
+<p align="center">⚡ Always building. Always learning.</p> -->
 
