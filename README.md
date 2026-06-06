@@ -7,7 +7,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/RudraNarayan2002?label=Follow&style=social)](https://github.com/RudraNarayan2002)
 [![Years of Experience](https://img.shields.io/badge/2%2B%20Years-Expert-%23FF6B00)](https://github.com/RudraNarayan2002)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=RudraNarayan2002.RudraNarayan2002)](https://github.com/RudraNarayan2002)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-46EDD5?style=for-the-badge&logo=vercel&logoColor=white)](https://rudrasubudhi.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-46EDD5?logo=vercel&logoColor=white)](https://rudrasubudhi.vercel.app/)
 
 I'm a **Software Engineer** with **2+ years of experience** in building intelligent full-stack systems with **Web2** and **AI** integrations.
 
