@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&pause=1000&color=46EDD5&center=true&width=435&lines=Software+Engineer;Frontend+Engineer;2%2B+years+of+experience;Always+learning+new+tech" alt="Animated Intro" /></a>
+  <a href="https://github.com/RudraNarayan2002"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Frontend%20Engineer;2%2B%20years%20of%20experience;Always%20learning%20new%20tech&font=Pacifico&center=true&width=650&height=120&color=46EDD5&vCenter=true&size=45%22"></a>
 </p>
 
 ## 👨‍💻 About Me
