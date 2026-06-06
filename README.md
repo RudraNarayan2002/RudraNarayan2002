@@ -7,6 +7,7 @@
 [![GitHub Followers](https://img.shields.io/github/followers/RudraNarayan2002?label=Follow&style=social)](https://github.com/RudraNarayan2002)
 [![Years of Experience](https://img.shields.io/badge/2%2B%20Years-Expert-%23FF6B00)](https://github.com/RudraNarayan2002)
 [![Visitors](https://visitor-badge.laobi.icu/badge?page_id=RudraNarayan2002.RudraNarayan2002)](https://github.com/RudraNarayan2002)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-46EDD5?style=for-the-badge&logo=vercel&logoColor=white)](https://rudrasubudhi.vercel.app/)
 
 I'm a **Software Engineer** with **2+ years of experience** in building intelligent full-stack systems with **Web2** and **AI** integrations.
 
@@ -71,6 +72,22 @@ I'm a **Software Engineer** with **2+ years of experience** in building intellig
 
 ---
 
+### GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RudraNarayan2002&show_icons=true&theme=chartreuse-dark&count_private=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RudraNarayan2002&theme=chartreuse-dark" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraNarayan2002&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
+</p>
+
+---
+
 ### **How I Can Help**
 
 - **Full-Stack Architecture** for complex enterprise applications
@@ -89,7 +106,7 @@ I'm a **Software Engineer** with **2+ years of experience** in building intellig
 
 ---
 
-### 🧩 Let's Connect
+### 🤝 Let's Connect
 
 I'm always open to collaborating, contributing, or just talking about technology, AI, and software architecture.  
 Feel free to reach out or check out my latest work here on GitHub! 
