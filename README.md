@@ -75,15 +75,7 @@ I'm a **Software Engineer** with **2+ years of experience** in building intellig
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RudraNarayan2002&show_icons=true&theme=chartreuse-dark&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RudraNarayan2002&theme=chartreuse-dark" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RudraNarayan2002&layout=compact&theme=chartreuse-dark" alt="Top Languages" />
 </p>
 
 ---
