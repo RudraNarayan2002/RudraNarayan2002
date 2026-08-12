@@ -70,13 +70,12 @@ I'm a **Software Engineer** with **2+ years of experience** in building intellig
 ![Scrum](https://img.shields.io/badge/-Scrum-0091D5?logo=scrum&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white)
 
----
 
+<!-- <p align="center">
 ### GitHub Stats
 
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RudraNarayan2002&theme=chartreuse-dark" alt="GitHub Streak" />
-</p>
+</p> -->
 
 ---
 
